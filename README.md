@@ -1,6 +1,6 @@
-# Hi there 👋
-![kyum06's github stats](https://github-readme-stats.vercel.app/api?username=kyum06)<br>
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukyum)](https://solved.ac/yukyum)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyum06&layout=compact)](https://github.com/kyum06)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+</p>
