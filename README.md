@@ -1,11 +1,11 @@
-### 안녕하세요! 👋
+## 안녕하세요! 👋
 
 저는 개발을 사랑하는 개발자 유겸입니다. 주로 TypeScript와 Golang을 사용하여 웹 애플리케이션을 개발하고 있습니다.
 
 #### 프로젝트
 
 - [VirtualVest](https://github.com/kyum06/VirtualVest): 2023 광주AI·SW 체험축전에 제출한 모의 주식 프로그램입니다
-- [CleanGuard](https://github.com/kyum06/cleanguard): Google Chrome 확장으로 개인정보 보호를 제공합니다
+- [CleanGuard](https://github.com/kyum06/cleanguard): Google Chrome 확장으로 개인정보 보호 기능을 제공합니다
 
 #### 기술 스택
 
@@ -25,6 +25,6 @@
 #### GitHub 통계
 
 ![kyum06's github stats](https://github-readme-stats.vercel.app/api?username=kyum06&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhalesBob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyum06&layout=compact)](https://github.com/kyum06)
 
 > 더 많은 정보는 [GitHub 프로필](https://github.com/kyum06)을 방문해주세요!
