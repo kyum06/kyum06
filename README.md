@@ -18,7 +18,7 @@
 #### Solved.ac
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukyum)](https://solved.ac/kyume45)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyume)](https://solved.ac/kyume)
 
 #### GitHub 통계
 
