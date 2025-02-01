@@ -18,11 +18,11 @@
 #### Solved.ac
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukyum)](https://solved.ac/yukyum)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukyum)](https://solved.ac/kyume45)
 
 #### GitHub 통계
 
-![kyum06's github stats](https://github-readme-stats.vercel.app/api?username=kyum06&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyum06&layout=compact)](https://github.com/kyum06)
+![kyume45's github stats](https://github-readme-stats.vercel.app/api?username=kyume45&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyume45&layout=compact)](https://github.com/kyume45)
 
-> 더 많은 정보는 [GitHub 프로필](https://github.com/kyum06)을 방문해주세요!
+> 더 많은 정보는 [GitHub 프로필](https://github.com/kyume45)을 방문해주세요!
